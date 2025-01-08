@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/de.htwdd.sf.beleg.s88718s89357.feature_1.0.0.202501081311.jar" id="de.htwdd.sf.beleg.s88718s89357.feature" version="1.0.0.202501081311">
-      <category name="new_category_1"/>
+   <feature url="features/de.htwdd.sf.beleg.s88718s89357.feature_1.0.0.202501081414.jar" id="de.htwdd.sf.beleg.s88718s89357.feature" version="1.0.0.202501081414">
+      <category name="cat3"/>
    </feature>
-   <category-def name="new_category_1" label="Beleg"/>
+   <category-def name="cat3" label="cat3"/>
 </site>
